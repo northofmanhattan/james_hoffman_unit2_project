@@ -33,4 +33,4 @@ Score | Expectations
 
 ## Submission
 
-See [course-info](https://git.generalassemb.ly/datr-625/course_info#project-submission-procedure).
+See the Course Info doc for your session of the course.
